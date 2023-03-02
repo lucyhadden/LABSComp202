@@ -15,6 +15,7 @@ public class FizzBuz {
         fizzBuzz(a, b, c, d);
 
         System.out.println("changes made to show git");
+        System.out.println("changes made to show branches");
 
     }
 
