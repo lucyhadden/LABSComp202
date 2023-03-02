@@ -14,6 +14,8 @@ public class FizzBuz {
         int d = sc.nextInt();
         fizzBuzz(a, b, c, d);
 
+        System.out.println("changes made to show git");
+
     }
 
     public static void fizzBuzz(int a, int b, int c, int d) {
